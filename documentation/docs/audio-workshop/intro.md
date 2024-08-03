@@ -26,7 +26,7 @@ This was a three hour workshop exploring how to create music with code, using a 
 - Student becomes teacher
 
 ## Workshop schedule
-Start 10:30
+- Start 10:30
 1. Welcome and introductions (15 mins)
 2. Dan, Cameron and Viola intro! What is Live Coding & Why we do it (15 mins)
 3. Hello world of Strudel! (20 mins)
@@ -43,5 +43,24 @@ Start 10:30
 - Make a song from scratch! (10mins)
 - Heads-down section #2 (20 mins)
 - Song share-out (30 mins)
+- End 1:30
 
-End 1:30
+## ASCII ART SECTION
+```
+     _.---._    /\\
+    ./'       "--`\//
+  ./              o \          .-----.
+ /./\  )______   \__ \        ( help! )
+./  / /\ \   | \ \  \ \       /`-----'
+   / /  \ \  | |\ \  \7--- ooo ooo ooo ooo ooo ooo
+
+
+       /^-^\
+      / o o \
+     /   Y   \
+     V \ v / V
+       / - \
+      /    |
+(    /     |
+ ===/___) ||
+```
